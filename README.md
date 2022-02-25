@@ -8,8 +8,11 @@ Medical officers have been unable to keep patients with long term illnesses in h
 
 ## Individual Research Question
 IT19078106 :Real-Time Cloud-Based Health Tracking and Monitoring; Server Environment.
+
 IT19236360:IOT and the promise of predictive health.
+
 IT19198064:Implementing a machine learning-based alerting platform to identify critical health problems and alert it to necessary persons.
+
 IT19008738:IOT healthcare data analyzing in Cloud Environment.
 
 ## Individual Objectives
