@@ -7,13 +7,13 @@ The main objective of our Remote portable personalized healthcare platform for p
 Medical officers have been unable to keep patients with long term illnesses in health care centres because of the growing world of technology. People forget their help check-up which needs to be done monthly or quarterly. Some patients need to be continuously monitored their health matrices, but due to the current situation doctors are unable to monitor continuously. If the Doctors can contribute patient data and diagnosis information to a massive database accessible to physicians in our organization. Centralized health data can be used to identify new diseases and patterns more quickly. And the current situation there is no solution for centralized storing the health metrics in one place. And these centralized health data can be used to identify new diseases and patterns more quickly. Due to the lack of manpower in the medical sector unable to continuously monitor individual patients and there is no proper mechanism to alert emergency health situations based on machine learning algorithms.
 
 ## Individual Research Question
-IT19078106 :  Real-Time Cloud-Based Health Tracking and Monitoring; Server Environment
+IT19078106 :  Real-Time Cloud-Based Health Tracking and Monitoring; Server Environment.
 IT19236360:IOT and the promise of predictive health.
 IT19198064: Implementing a machine learning-based alerting platform to identify critical health problems and alert it to necessary persons.
 IT19008738: IOT healthcare data analyzing in Cloud Environment.
 
 ## Individual Objectives
-IT19078106: To develop  the cloud-based monitoring platform  that all visualize the live data stream of the patient health matrices, and  the professionals can view the patient's history data in the form of graphs via the dashboard.
+IT19078106: To develop  the cloud-based monitoring platform  that all visualize the live data stream of the patient health matrices,and the professionals can view the patient's history data in the form of graphs via the dashboard.
 IT19236360:Implement IOT based device to collect Heath metrices.
 IT19198064:Implement the platform for exact predictions of disease alert to necessary person on time with Artificial Intelligence and Machine Learning facilities. 
 IT19008738:Implementing the interoperability of the different data sources within healthcare platform.
