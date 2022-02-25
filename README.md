@@ -14,9 +14,9 @@ IT19008738: IOT healthcare data analyzing in Cloud Environment.
 
 ## Individual Objectives
 IT19078106: To develop  the cloud-based monitoring platform  that all visualize the live data stream of the patient health matrices, and  the professionals can view the patient's history data in the form of graphs via the dashboard.
-IT19236360: Implement IOT based device to collect Heath metrices.
-IT19198064:  Implement the platform for exact predictions of disease alert to necessary person on time with Artificial Intelligence and Machine Learning facilities. 
-IT19008738: Implementing the interoperability of the different data sources within healthcare platform.
+IT19236360:Implement IOT based device to collect Heath metrices.
+IT19198064:Implement the platform for exact predictions of disease alert to necessary person on time with Artificial Intelligence and Machine Learning facilities. 
+IT19008738:Implementing the interoperability of the different data sources within healthcare platform.
 
 
 ## Other Necessary Information
